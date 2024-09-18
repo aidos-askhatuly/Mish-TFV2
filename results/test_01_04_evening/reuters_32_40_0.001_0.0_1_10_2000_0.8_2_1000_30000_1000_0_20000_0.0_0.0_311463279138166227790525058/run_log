@@ -1,0 +1,4 @@
+patience 0
+Training 1148.8628868103028 vae_val 0.9979999999999425 epochs 10.154861640010155 top_k_prec 0.0
+% of valid pairs 0.125 -1.0
+mean train time 0.004227461457252502 opposite 16.175001 same 15.300002
